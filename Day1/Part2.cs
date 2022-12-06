@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AdventOfCode
+namespace AdventOfCode.Day1
 {
     class Part2
     {
-        static void Main()
+        static void Temp()
         {
             string[] lines = System.IO.File.ReadAllLines(@"C:\Users\User\Downloads\advent.txt");
 
